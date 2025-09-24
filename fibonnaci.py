@@ -1,7 +1,6 @@
 # Triplet: Arinda Josephine, Kikomeko Bashir, Deborah Nanyanzi 
 
 def fibonacci(n: int) -> int:
-    """Return the nth Fibonacci number."""
     if n < 0:
         raise ValueError("Fibonacci is not defined for negative numbers")
     if n == 0:
