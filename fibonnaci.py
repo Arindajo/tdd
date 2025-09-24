@@ -1,3 +1,5 @@
+# Pair: Arinda Josephine and Kikomeko Bashir 
+
 def fibonacci(n: int) -> int:
     """Return the nth Fibonacci number."""
     if n < 0:
