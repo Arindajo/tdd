@@ -1,4 +1,4 @@
-# Pair: Arinda Josephine and Kikomeko Bashir 
+# Triplet: Arinda Josephine, Kikomeko Bashir, Deborah Nanyanzi 
 
 def fibonacci(n: int) -> int:
     """Return the nth Fibonacci number."""
